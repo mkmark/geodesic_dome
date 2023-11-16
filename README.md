@@ -27,4 +27,5 @@ Resources for geodesic domes. Repository of paper
 ## table of contents
 
 - Spherical tessellation: [mkmark/spherical_code](https://github.com/mkmark/spherical_code)
-- Rhino/Grasshopper implementation of Triacon and alternative methods, with full geodesic dome design pipeline examples [mkmark/MKTools](https://github.com/mkmark/MKTools) 
+- Rhino/Grasshopper implementation of Triacon and alternative methods [mkmark/MKTools](https://github.com/mkmark/MKTools) 
+- full geodesic dome design pipeline examples: [example](example/)
